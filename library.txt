@@ -1,0 +1,2 @@
+1,Python Crash Course,Eric Matthes,Available
+2,Clean Code,Robert Martin,Borrowed
